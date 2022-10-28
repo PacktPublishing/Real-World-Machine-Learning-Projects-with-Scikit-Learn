@@ -76,3 +76,7 @@ Anaconda and Python 3 (https://conda.io/docs/user-guide/install/windows.html)
 
 * [Hands-on Scikit-learn for Machine Learning [Video]](https://www.packtpub.com/big-data-and-business-intelligence/hands-scikit-learn-machine-learning-video?utm_source=github&utm_medium=repository&utm_campaign=9781789137132)
 
+### Download a free PDF
+
+ <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
+<p align="center"> <a href="https://packt.link/free-ebook/9781789131222">https://packt.link/free-ebook/9781789131222 </a> </p>
